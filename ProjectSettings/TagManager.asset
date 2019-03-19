@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PickUp
+  - Bomb
+  - Ground
+  - FlyEnemy
+  - BK
+  - Follower
+  - EnemyFrontResist
+  - Platform
+  - FireBall
+  - dynamit
+  - GhostPlayer
+  - Traps
+  - Canvas
+  - CrashGround
+  - Lava
+  - Dead
+  - CrashBox
+  - Diax
+  - Teleport
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Ground
+  - EnymyLimit
+  - Bomb
+  - FollowerEnemy
+  - PickUp
+  - Platform
+  - CrashGround
+  - Lava
+  - CrashBox
+  - Dynamit
+  - Diax
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3764822049
+    locked: 0
+  - name: SecoundPlann
+    uniqueID: 2646703805
+    locked: 0
+  - name: Player
+    uniqueID: 1333199093
+    locked: 0
+  - name: Enemy
+    uniqueID: 3411587757
+    locked: 0
+  - name: New Trap
+    uniqueID: 1279936077
+    locked: 0
